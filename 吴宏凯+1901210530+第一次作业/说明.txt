@@ -1,0 +1,4 @@
+1、源代码是在gmssl-master代码上修改的，主要修改sm3.py的sm3_hash
+函数和test_sm3.py。
+
+2、实验报告文档包括设计思路和实验结果
